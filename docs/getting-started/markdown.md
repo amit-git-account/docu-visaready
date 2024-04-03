@@ -38,10 +38,32 @@ This is a horizontal rule.
 
 ---
 
-
-
 `const name = 'John Doe';`
 
 **This is a bold text.**
 
 _This is an italic text._
+
+:::note
+Here's some **information** with _Markdown_ styling.
+
+:::
+
+:::tip
+Here's some **helpful tip** with _Markdown_ styling.
+
+:::
+
+:::info
+Here's some **helpful informaiton** with _Markdown_ styling.
+
+:::
+
+:::caution
+Here's some **caution** with _Markdown_ styling.
+
+:::
+
+:::danger
+Here's some **danger** with _Markdown_ styling.
+
