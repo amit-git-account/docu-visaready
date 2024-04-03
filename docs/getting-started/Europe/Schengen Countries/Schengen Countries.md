@@ -1,6 +1,6 @@
 ---
 title: Schengen Countries
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 import Tag from '@site/src/components/Tag';
@@ -55,3 +55,11 @@ Note: Above documentation is required for tourist visas, also known as Schengen 
 1. How do I know if my Biometrics are already collected in the past?
 2. How can I schedule an appointment at the nearby Embassy /Consulate in my country of residence (remember, your passport and residence countries can be different)
 
+
+## Top Reasons for Visa Rejections and tips to avoid rejection
+![alt text](https://picsum.photos/600/400)
+![alternate text](/img/Shores_Scale_Visa_Rejection_Chart.png)
+
+ Rejection Reason | How to avoid |
+|----| ---|
+| Completed App | |
