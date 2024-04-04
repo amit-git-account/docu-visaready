@@ -6,9 +6,11 @@
 
 import {themes as prismThemes} from 'prism-react-renderer';
 
+
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'VisaReady Documentation and Templates',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
@@ -33,7 +35,15 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-
+  plugins: [
+    [
+      'vercel-analytics',
+      {
+        debug: true,
+        mode: 'auto',
+      },
+    ],
+  ],
 
   presets: [
     [
