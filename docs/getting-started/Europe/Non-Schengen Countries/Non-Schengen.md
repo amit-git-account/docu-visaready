@@ -12,7 +12,5 @@ import Tag from '@site/src/components/Tag';
 | United Kingdom     | Ireland    |Cyprus   | Turkey        |Ukraine   |Belarus    |Russian Federation    | Iceland | 
 
 
-### <Tag color="#FFFFFF">[VisaReady](https://forms.gle/ZcgejFST9XRTyorJ6)</Tag><Tag color="#FF5733">coming soon</Tag> to enable hassle free travel to 25+ countries
+### <Tag color="#3399FF">Visa Ready</Tag> coming soon to enable hassle to enable hassle free travel to non-Schengen countries
 ### Sign up<Tag color="#FFFFFF">[here](https://forms.gle/ZcgejFST9XRTyorJ6)</Tag>for <Tag color="#FF5733">beta access</Tag>
-
-# Coming soon

@@ -1,7 +1,7 @@
 ---
 title: Schengen Countries
 sidebar_position: 2
-description:  A short description of this page
+description:  Know about the visa types and processes for each of the Schengen Countries.
 
 image: ../static/img/Shores.svg
 ---
@@ -21,7 +21,7 @@ Here's the listing of **Schengen countries**
 :::
 
 :::note
-### <Tag color="#FF5733">Coming soon</Tag> to enable hassle free travel to 25+ countries
+### <Tag color="#3399FF">Visa Ready</Tag> coming soon to enable hassle free travel to 25+ countries
 ### Sign up<Tag color="#ffff00">[here](https://forms.gle/ZcgejFST9XRTyorJ6)</Tag>for <Tag color="#FF5733">beta access</Tag>
 :::
 
@@ -108,7 +108,7 @@ Try to seek visa from a Schengen country that has the lowest rejection rate for 
 :::
  Rejection Reason | How to avoid |
 |----| :---:|
-|Incomplete application| make sure that your applications are fully and consistently filled in|
+|Incomplete application| Often time what is easy to see is easy to miss. Goes without saying, make sure that your Visa application is fully and consistently filled in. Make sure your passport is valid for at least 6 months from the beginning of the travel date.|
 |Lack of supporting documents| Travel insurance, travel itinerary for the full trip, completed application form|
 | Lack of travel insurance | <ul><li>Buy enough coverage (min of €30,000)</li><li>Buy for the full duration of your intended trip including the travel days</li><li>Buy insurance from a reputed company</li></ul>|
 | Insufficient funds| 1. Show enough cash or cash equivalent fund. 2. Bank accounts showing massive influx of funds leading to the days of visa creates suspicion |
@@ -117,6 +117,7 @@ Try to seek visa from a Schengen country that has the lowest rejection rate for 
 |Lack of intent of return| You must have the authorization to return to the country or continue your onward journey.|
 |Incomplete travel itinerary| Flight tickets should be confirmed|
 |Previous visa rejections| This is tricky, try to seek visa from a country with low rejection rates for your demography /country as per above Shores Score chart|
-|Security threat to any Schengen country| Well, this is difficult to mitigate|
 
 
+
+### Sign up<Tag color="#ffff00">[here](https://forms.gle/ZcgejFST9XRTyorJ6)</Tag>for <Tag color="#FF5733">beta access</Tag>

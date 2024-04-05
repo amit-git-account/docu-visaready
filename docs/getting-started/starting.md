@@ -29,9 +29,4 @@ Access a library of templates for commonly required documents, such as invitatio
 ### Appointment Booking: 
 Find all about visa appointments, biometrics requirements and more at your closest embassies, consulates, or visa application centers.
 
-### FAQs and Support: 
-Find answers to frequently asked questions and learn how to get in touch with our support team for further assistance.
-
-We're committed to providing you with the tools and resources you need to navigate the visa application process with confidence and ease. Whether you're embarking on a solo adventure, planning a family vacation, or expanding your business globally, <Tag color="#FF5733">VisaReady</Tag> is here to support you every step of the way.
-
 Let's embark on your visa application journey together!
