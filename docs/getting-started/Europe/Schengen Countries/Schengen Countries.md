@@ -8,7 +8,6 @@ image: ../static/img/Shores.svg
 
 import Tag from '@site/src/components/Tag';
 
-
 ## Get Visas without hassle
 :::info
 Here's the listing of **Schengen countries**
@@ -79,7 +78,23 @@ You need at least €30,000 or equivalent ($32,800)
 
 ## Top Reasons for Visa Rejections and tips to avoid rejection
 
-![alt text](/img/Shores.svg)
+![shores scale](/img/Shores.svg)
+### Probability of rejection of Schengen Visa for top 10 Applicant Countries
+
+---
+---
+
+![An image from the static](/img/RejRate-ScCou.png)
+### Rejection Rates of Schengen Visas by Schegen Countries
+
+---
+---
+
+![An image from the static](/img/RejRate-AppCou.png)
+### Rejection Rates of Schengen Visas by Applicant's Country
+
+
+---
 
 :::tip
 - X axis: Schengen Countries granting Visa
@@ -92,14 +107,16 @@ Try to seek visa from a Schengen country that has the lowest rejection rate for 
 
 :::
  Rejection Reason | How to avoid |
-|----| ---|
-| Lack of travel insurance | 1. Buy enough coverage 2. Buy for the full duration of your intended trip including the travel days 3. Buy insurance from a reputed company|
-| Insufficient funds| 1. Show enough cash or cash equivalent fund. 2. Bank accounts showing massive influx of funds leading to the days of visa creates suspicion |
-|Lack of supporting documents| Travel insurance, travel itinerary for the full trip, completed application form|
+|----| :---:|
 |Incomplete application| make sure that your applications are fully and consistently filled in|
+|Lack of supporting documents| Travel insurance, travel itinerary for the full trip, completed application form|
+| Lack of travel insurance | <ul><li>Buy enough coverage (min of €30,000)</li><li>Buy for the full duration of your intended trip including the travel days</li><li>Buy insurance from a reputed company</li></ul>|
+| Insufficient funds| 1. Show enough cash or cash equivalent fund. 2. Bank accounts showing massive influx of funds leading to the days of visa creates suspicion |
 |Unclear purpose of travel| Ensure that your story checks out on why you intend to travel to Europe|
 |Lack of proof of accommodation| Book accommodation in advance for the entire trip|
 |Lack of intent of return| You must have the authorization to return to the country or continue your onward journey.|
 |Incomplete travel itinerary| Flight tickets should be confirmed|
 |Previous visa rejections| This is tricky, try to seek visa from a country with low rejection rates for your demography /country as per above Shores Score chart|
 |Security threat to any Schengen country| Well, this is difficult to mitigate|
+
+
