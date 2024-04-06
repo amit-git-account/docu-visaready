@@ -31,11 +31,13 @@ const config = {
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
+
+
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
   },
-  /*plugins: [
+ /* plugins: [
     [
       'vercel-analytics',
       {
@@ -43,7 +45,7 @@ const config = {
         mode: 'auto',
       },
     ],
-  ],*/
+  ], */
 
   presets: [
     [
@@ -56,11 +58,12 @@ const config = {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-      
-
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
+        gtag: {
+            trackingID: "G-VJ4N4W9J09",
+          anonymizeIP: false,        },
         blog: false,
         //blog: {
           //showReadingTime: true,
@@ -75,6 +78,7 @@ const config = {
       }),
     ],
   ],
+
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -153,6 +157,7 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+    
 };
 
 export default config;
