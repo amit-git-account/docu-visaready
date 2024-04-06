@@ -96,8 +96,8 @@ const config = {
           },*/
         //  {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://github.com/amit-git-account/docu-visaready',
+            label: 'Contribute to VisaReady Github repo',
             position: 'right',
           },
         ],
@@ -105,7 +105,7 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          {
+         /* {
             title: 'Docs',
             items: [
               {
@@ -113,8 +113,9 @@ const config = {
                 to: '/docs/intro',
               },
             ],
-          },
-          {
+          },*/
+         
+         /* {
             title: 'Community',
             items: [
               {
@@ -130,22 +131,22 @@ const config = {
                 href: 'https://twitter.com/docusaurus',
               },
             ],
-          },
+          },*/
           {
-            title: 'More',
+            title: 'Contribute to GitHub library',
             items: [
-              {
+             /* {
                 label: 'Blog',
                 to: '/blog',
-              },
+              },*/
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/amit-git-account/docu-visaready',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} VisaReady Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} VisaReady Inc.`,
       },
       prism: {
         theme: prismThemes.github,

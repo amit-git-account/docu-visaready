@@ -13,6 +13,12 @@ import Tag from '@site/src/components/Tag';
 ### Sign up<Tag color="#ffff00">[here](https://forms.gle/ZcgejFST9XRTyorJ6)</Tag>for <Tag color="#FF5733">beta access</Tag>
 :::
 
+:::info
+## This page is in progress. Please check back later.
+Visit [here](http://localhost:3000/getting-started/Europe/Schengen%20Countries/) if you are looking for information on Schengen Visa
+
+:::
+
 While you're here, have you ever pondered why Spanish is spoken throughout much of Latin America, while Portuguese is the predominant language in Brazil?
 Well, the answer lies in the below image: 
 ![An image from the static](/img/Spain_and_Portugal.png)
