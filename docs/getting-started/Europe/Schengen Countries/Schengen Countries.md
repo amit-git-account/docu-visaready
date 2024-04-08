@@ -16,7 +16,7 @@ Here's the listing of **Schengen countries**
 |----| ---| ---|---|---|---|---|
 | Austria     | Belgium   |Bulgaria   | Croatia       |Czech Republic   |Denmark    |Estonia    | Finland | 
 | France      | Germany   | Greece    | Hungary       |Iceland          |Italy      | Latvia    | Liechtenstein|
-| Lithuania   |Luxeumbourg| Malta     | Netherlands   |Norway           | Poland    | Portugal  | Romania| 
+| Lithuania   | Luxembourg| Malta     | Netherlands   |Norway           | Poland    | Portugal  | Romania| 
 | Slovakia    | Slovenia  | Spain     | Sweden        |Switzerland
 :::
 
@@ -29,6 +29,7 @@ Here's the listing of **Schengen countries**
 # VISA Application Instructions
 | First Party Paperwork | Third-party Paperwork | Government Liasioning |
 |----| ---| ---|
+|With <Tag color="#3399FF">Visa Ready</Tag> you can accomplish all of the below steps in under an hour|<Tag color="#3399FF">Visa Ready</Tag> provides you assistance on all of the below|You'll have to book an appointment and visit the embassy/ consulate for this processing|
 | Completed Application Form                         | Invitation Letter from Host/ Company      |Biometrics Collection                      |
 | NoC from Employer or School                        | Confirmed Travel Booking                  |Appointment Scheduling                     |
 | Financial statement (bank statements, salary slips)| Confirmed Hotel Booking                   | Passport Handling at Embassy/ Consulate   |
@@ -43,11 +44,14 @@ Note: Documentation mentioned above is necessary for tourist visas, also known a
 ## First Party Paperwork
 ### VISA Document Templates
 1. [Application form](https://drive.google.com/file/d/1121z_atnTck6qZqaY14MbiBZC2wsNJb0/view?usp=drive_link)
+Hamonized application form for Schengen Visa makes it easy to use one form template for all Schengen countries making it easier to navigate the number of forms for each country everytime you apply for a Schengen Visa
 2. [No Objection Certification (NoC) from Employer Template](https://docs.google.com/document/d/1712T7LsoqOwMQv-s7HEiZPJW8D2EoAmXF3yoeRxW-ek/edit?usp=drive_link)
+If you are employed, then you will need to have your employer fill up this form mentioning your details, such as designation, annual salary, start date, employment type etc.
 3. [No Objection Certification (NoC) from University /School Template](https://docs.google.com/document/d/1jRnDrRHCBW7l0CcDnjAIfWat4CXaILJ6_YEy9Hu7arM/edit?usp=sharing)
+If you are enrolled in a University or School, then you will need to have your School fill up this form mentioning your enrollment status, start date, expected end date, type of course etc.
 4. [Minor Authorization form Template](https://docs.google.com/document/d/1lUVQYc6_s_7lSaOcBSgq-pkRF_umuJZK/edit?usp=drive_link&ouid=105787849237823676654&rtpof=true&sd=true)
+If a minor is traveling with you without one or both of the parents, then this form is required to be filled authorizing the travel of minor
 5. [Photographs Specifications](https://www.government.nl/topics/identification-documents/requirements-for-photos)
-
 Access complete document template library [here](http://localhost:3000/getting-started/Document%20Templates/document_templates)
 
 
