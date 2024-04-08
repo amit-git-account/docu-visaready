@@ -44,19 +44,23 @@ Note: Documentation mentioned above is necessary for tourist visas, also known a
 ### VISA Document Templates
 1. [Application form](https://drive.google.com/file/d/1121z_atnTck6qZqaY14MbiBZC2wsNJb0/view?usp=drive_link)
 2. [No Objection Certification (NoC) from Employer Template](https://docs.google.com/document/d/1712T7LsoqOwMQv-s7HEiZPJW8D2EoAmXF3yoeRxW-ek/edit?usp=drive_link)
-3. No Objection Certification (NoC) from School Template 
+3. [No Objection Certification (NoC) from University /School Template](https://docs.google.com/document/d/1jRnDrRHCBW7l0CcDnjAIfWat4CXaILJ6_YEy9Hu7arM/edit?usp=sharing)
 4. [Minor Authorization form Template](https://docs.google.com/document/d/1lUVQYc6_s_7lSaOcBSgq-pkRF_umuJZK/edit?usp=drive_link&ouid=105787849237823676654&rtpof=true&sd=true)
 5. [Photographs Specifications](https://www.government.nl/topics/identification-documents/requirements-for-photos)
+
+Access complete document template library [here](http://localhost:3000/getting-started/Document%20Templates/document_templates)
 
 
 ## Third Party Paperwork
 1. Invitation Letter Template
 2. Flight Booking tip to avoid large exposure to booking expensive flight tickets. 
 :::tip
-[Book cheap but searchable dummy flight tickets for visa purpose here.](https://dummyflights.com/). 
+We advise against purchasing a full flight ticket before obtaining the visa.
+ [Book cheap and verifiable dummy flight tickets or flight itineraries for visa purpose here.](https://dummyflights.com/.
+ A Flight Itinerary for a Visa Application is not a real Flight or Air Ticket. It is only a flight timetable on the selected airline, with flight name, your name, a valid flight reservation number or booking ID, arrival and departure date, and airport IATA codes, as well as the price of a real Flight Ticket.
 :::
 :::tip
-Alternatively, you have the option to book your tickets the night before your appointment, and if needed, cancel them after the visa appointment to receive a full refund.
+Alternatively, you have the option to book your tickets the night before your appointment, and if needed, cancel them within the 24 hrs cancellation window after the visa appointment to receive a full refund.
 :::
 
 3. Hotel Booking tip to avoid large exposure to booking expensive accommodation. 
@@ -72,8 +76,9 @@ You need at least €30,000 or equivalent ($32,800)
 
 
 ## Government Paperwork
-1. How do I know if my Biometrics are already collected in the past?
-2. How can I schedule an appointment at the nearby Embassy /Consulate in my country of residence (remember, your passport and residence countries can be different)
+1. Any visa applicant aged 12 or older must submit his or her visa application in person. The following biometric data will be required: a photo (scanned or taken during your last appointment), and ten fingerprints. If you hold a biometric Schengen visa issued in the past 59 months, your previous biometric data can be re-used. 
+You may be exempt from attending your visa appointment in person if : Your fingerprints were previously collected as part of an earlier application less than 59 months before the date of your current application.
+2. Scheduling an appointment - you have to schedule an appointment in the closest embassy /consulate within your country of application
 
 
 ## Top Reasons for Visa Rejections and tips to avoid rejection
@@ -107,16 +112,16 @@ Try to seek visa from a Schengen country that has the lowest rejection rate for 
 
 :::
  Rejection Reason | How to avoid |
-|----| :---:|
+|----| ---|
 |Incomplete application| Often time what is easy to see is easy to miss. Goes without saying, make sure that your Visa application is fully and consistently filled in. Make sure your passport is valid for at least 6 months from the beginning of the travel date.|
-|Lack of supporting documents| Travel insurance, travel itinerary for the full trip, completed application form|
+|Lack of supporting documents| Make sure you have required travel insurance with enough coverage, travel itinerary for the full trip, completed application form, minor authorization form, invitation letter if applicable|
 | Lack of travel insurance | <ul><li>Buy enough coverage (min of €30,000)</li><li>Buy for the full duration of your intended trip including the travel days</li><li>Buy insurance from a reputed company</li></ul>|
-| Insufficient funds| 1. Show enough cash or cash equivalent fund. 2. Bank accounts showing massive influx of funds leading to the days of visa creates suspicion |
+| Insufficient funds| Show enough cash or cash equivalent fund. Bank accounts showing massive influx of funds leading to the days of visa creates suspicion |
 |Unclear purpose of travel| Ensure that your story checks out on why you intend to travel to Europe|
-|Lack of proof of accommodation| Book accommodation in advance for the entire trip|
-|Lack of intent of return| You must have the authorization to return to the country or continue your onward journey.|
-|Incomplete travel itinerary| Flight tickets should be confirmed|
-|Previous visa rejections| This is tricky, try to seek visa from a country with low rejection rates for your demography /country as per above Shores Score chart|
+|Lack of proof of accommodation| Reserve your lodging ahead of time for the entire duration of your journey, or obtain a letter from your host verifying that they will be providing accommodations for you|
+|Lack of intent of return| You need authorization to either re-enter your country or proceed with your onward travels. For example, if you're traveling from India to Europe and plan to continue your journey to the US afterward, lacking a valid US visa indicates that your onward travel may not be possible.|
+|Incomplete travel itinerary| Accommodation, flight details, travel insurance must be provided.|
+|Previous visa rejections| Certain Schengen countries tend to have higher rejection rates. Likewise, each applicant country may experience higher rejection rates for certain Schengen countries and higher acceptance rates for others. Whenever feasible, opt for a country with a positive track record of visa acceptance for your nation. Refer to the Shores Score chart above for information pertaining to your country.|
 
 
 
